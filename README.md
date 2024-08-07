@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Biel-Dario-Dev 😁
 
  <div>
-   <a href="https://github.com/BielDarioDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BielDarioDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielDarioDev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Gabriel-Dario">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Dario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dario&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
